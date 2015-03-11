@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0620"
+   version = "2.0">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0681E1DD1AB0F8AB00B8D9B9"
+               BuildableName = "Heads or Tails WatchKit App.app"
+               BlueprintName = "Heads or Tails WatchKit App"
+               ReferencedContainer = "container:Heads or Tails.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0681E1A71AB0F88B00B8D9B9"
+               BuildableName = "Heads or Tails.app"
+               BlueprintName = "Heads or Tails"
+               ReferencedContainer = "container:Heads or Tails.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0681E1D01AB0F8AB00B8D9B9"
+               BuildableName = "Heads or Tails WatchKit Extension.appex"
+               BlueprintName = "Heads or Tails WatchKit Extension"
+               ReferencedContainer = "container:Heads or Tails.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0681E1DD1AB0F8AB00B8D9B9"
+            BuildableName = "Heads or Tails WatchKit App.app"
+            BlueprintName = "Heads or Tails WatchKit App"
+            ReferencedContainer = "container:Heads or Tails.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "8"
+      notificationPayloadFile = "Heads or Tails WatchKit Extension/PushNotificationPayload.apns">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/Heads or Tails">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0681E1DD1AB0F8AB00B8D9B9"
+            BuildableName = "Heads or Tails WatchKit App.app"
+            BlueprintName = "Heads or Tails WatchKit App"
+            ReferencedContainer = "container:Heads or Tails.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0681E1DD1AB0F8AB00B8D9B9"
+            BuildableName = "Heads or Tails WatchKit App.app"
+            BlueprintName = "Heads or Tails WatchKit App"
+            ReferencedContainer = "container:Heads or Tails.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/Heads or Tails">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0681E1DD1AB0F8AB00B8D9B9"
+            BuildableName = "Heads or Tails WatchKit App.app"
+            BlueprintName = "Heads or Tails WatchKit App"
+            ReferencedContainer = "container:Heads or Tails.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0681E1DD1AB0F8AB00B8D9B9"
+            BuildableName = "Heads or Tails WatchKit App.app"
+            BlueprintName = "Heads or Tails WatchKit App"
+            ReferencedContainer = "container:Heads or Tails.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
